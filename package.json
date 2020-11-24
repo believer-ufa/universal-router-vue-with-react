@@ -17,7 +17,10 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "regenerator-runtime": "^0.13.7",
-    "universal-router": "^9.0.1"
+    "universal-router": "^9.0.1",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.5",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "@babel/core": "^7.12.8",
